@@ -1,1 +1,1 @@
-# -BB-Password-Generator-.github.io
+# bbpasswordgenerator.github.io
